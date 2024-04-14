@@ -87,7 +87,7 @@ header nav ul li button a {
   font-weight: bold;
   font-family: "Barlow", sans-serif;
 }
-header nav ul li img {
+header nav ul li svg {
   display: none;
 }
 
@@ -290,7 +290,7 @@ footer section svg {
   header nav ul li button {
     display: none;
   }
-  header nav ul li img {
+  header nav ul li svg {
     display: block;
   }
   main {
