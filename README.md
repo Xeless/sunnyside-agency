@@ -8,11 +8,11 @@ Ceci est un projet réalisé en solo dans le cadre de notre apprentissage chez B
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ### Screenshot
-
+<img src="https://image.noelshack.com/fichiers/2024/32/3/1723016852-image.png"></img>
 
 
 
