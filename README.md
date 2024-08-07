@@ -22,7 +22,7 @@ Ceci est un projet réalisé en solo dans le cadre de notre apprentissage chez B
 - Flexbox
 - Mobile-first workflow
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,sass)](https://skillicons.dev)
 
 ## Author
 
