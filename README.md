@@ -26,6 +26,6 @@ Ceci est un projet réalisé en solo dans le cadre de notre apprentissage chez B
 
 ## Author
 
-- Github - [Tom Delinte](https://github.com/Xeless)
+- Github - [Xeless](https://github.com/Xeless)
 
 
